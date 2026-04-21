@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: cont1
-        image: traineranasuya/mobilebankingrepo:latest
+        image: traineranasuya/mb-image:latest
 ---
 apiVersion: v1
 kind: Service
